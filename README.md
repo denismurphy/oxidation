@@ -4,9 +4,9 @@ Rust learning and ramblings!
 
 ## What's This All About?
 
-Oxidised Gear is a collection of code snippets and examples that I've created while learning this programming language.
+Oxidised Gear is a collection of code snippets and examples that I've created while learning rust programming language.
 
-Think of it as my "Rust diary" - a place where I experiment, make mistakes, and gradually maybe more proficient with Rust and it idioms.
+Think of it as a place where I experiment, make mistakes, and gradually maybe more proficient with Rust and it idioms.
 
 ## 🎯 Project Goals
 
