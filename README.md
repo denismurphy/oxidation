@@ -1,6 +1,6 @@
 # 🦀 Oxidised Gear
 
-Welcome to Oxidised Gear, Rust learning and ramblings!
+Rust learning and ramblings!
 
 ## What's This All About?
 
