@@ -1,0 +1,9 @@
+pub type Byte = u8;
+pub type Sbyte = i8;
+pub type Double = f64;
+pub type Float = f32;
+pub type Int = i32;
+pub type Uint = u32;
+pub type Long = i64;
+pub type Ulong = u64;
+pub type Short = i16;
