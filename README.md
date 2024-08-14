@@ -1,16 +1,16 @@
-# 🦀 Oxidised Gear
+# 🦀 Oxidation
 
 Learning Rust!
 
 ## What's This All About?
 
-Oxidised Gear is a collection of code snippets and examples that I've created while learning rust programming language.
+Oxidation is a collection of code snippets and examples that I've created while learning rust programming language.
 
 Think of it as a place where I experiment, make mistakes, and gradually maybe more proficient with Rust and it idioms.
 
 ## 🎯 Project Goals
 
-1. Learning
+1. Learning Rust
 2. Experiment with Rust
 
 ## 🗂 What's Inside?
@@ -26,9 +26,9 @@ Think of it as a place where I experiment, make mistakes, and gradually maybe mo
 
 This is constantly evolving as I learn more about Rust.
 
-## 🤔 Why "Oxidised Gear"?
+## 🤔 Why "Oxidation"?
 
-Oxidised gear that's still running smoothly!
+Oxidation typically leads to the formation of Rust!
 
 ## 🤝 Contribute
 
