@@ -11,7 +11,7 @@ Think of it as a place where I experiment, make mistakes, and gradually more pro
 ## 🎯 Project Goals
 
 1. Learning Rust
-2. Experiment with Rust
+2. Experiment
 
 ## 🗂 What's Inside?
 
