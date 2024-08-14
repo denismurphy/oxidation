@@ -6,7 +6,7 @@ Learning Rust!
 
 Oxidation is a collection of code snippets and examples that I've created while learning rust programming language.
 
-Think of it as a place where I experiment, make mistakes, and gradually maybe more proficient with Rust and it idioms.
+Think of it as a place where I experiment, make mistakes, and gradually more proficient with Rust and it idioms.
 
 ## 🎯 Project Goals
 
