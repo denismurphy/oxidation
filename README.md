@@ -1,6 +1,6 @@
 # 🦀 Oxidised Gear
 
-Rust learning and ramblings!
+Learning Rust!
 
 ## What's This All About?
 
@@ -10,7 +10,7 @@ Think of it as a place where I experiment, make mistakes, and gradually maybe mo
 
 ## 🎯 Project Goals
 
-1. Learning and rambling
+1. Learning
 2. Experiment with Rust
 
 ## 🗂 What's Inside?
