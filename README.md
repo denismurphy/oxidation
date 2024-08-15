@@ -1,19 +1,8 @@
 # 🦀 Oxidation
 
-Learning Rust!
+Oxidation is a collection of code snippets and examples that I've created while learning Rust.
 
-## What's This All About?
-
-Oxidation is a collection of code snippets and examples that I've created while learning rust programming language.
-
-Think of it as a place where I experiment, make mistakes, and gradually more proficient with Rust and it idioms.
-
-## 🎯 Project Goals
-
-1. Learning Rust
-2. Experiment
-
-## 🗂 What's Inside?
+## 🌟 Features
 
 - **Basic**: Simple code snippets demonstrating Rust fundamentals
 - **Advanced**: More complex concepts like closures, generics, and lifetimes
@@ -21,18 +10,6 @@ Think of it as a place where I experiment, make mistakes, and gradually more pro
 - **Concurrency**: Adventures in Rust's thread-safe programming
 - **Data Structures**: Implementations of common data structures
 - **Algorithms**: Classic algorithms reimagined in Rust
-
-## 🚧 Work in Progress
-
-This is constantly evolving as I learn more about Rust.
-
-## 🤔 Why "Oxidation"?
-
-Oxidation typically leads to the formation of Rust!
-
-## 🤝 Contribute
-
-Feel free to open issues with suggestions, corrections, or your own code snippets.
 
 ## 📜 License
 
