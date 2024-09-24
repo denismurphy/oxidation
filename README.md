@@ -1,6 +1,6 @@
 # 🦀 Oxidation
 
-Oxidation is a collection of code snippets and examples that I've created while learning Rust.
+Oxidation is a collection of naive code snippets and examples that I've created while learning Rust.
 
 ## 🌟 Features
 
